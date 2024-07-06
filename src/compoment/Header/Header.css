@@ -1,0 +1,10 @@
+
+.header{
+  margin:auto -16px;
+    background-color: rgba(255, 166, 0, 0.827);
+    font-size: 35px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+    color: white;
+   padding: 16px 32px;
+
+}
